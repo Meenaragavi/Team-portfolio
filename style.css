@@ -1,0 +1,25 @@
+body
+{
+  background:white;
+  text-align: left;
+}
+
+header
+{
+  background-image: url("https://www.seoclerk.com/pics/want10687-14TZRq1388844023.jpg");
+  
+}
+h1 
+{
+  color: white;
+  font-family: "Permanent Marker", cursive;
+  text-shadow: 2px 2px 2px #000000;
+  font-size: 75px;
+  text-align: center;
+  padding: 75px 75px;
+}
+body
+{
+  background: white;
+  font-family: Lora, sans-serif;;
+}
